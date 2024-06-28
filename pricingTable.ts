@@ -60,10 +60,6 @@ export const pricingTable = {
       GBP: {
         monthly: "https://buy.stripe.com/9AQ9CA5Bf2tDa3KbIS",
         yearly: "https://buy.stripe.com/cN26qoaVz6JT1xe4gr",
-        // testing
-        // monthly: "https://buy.stripe.com/test_bIYaER0aB5Jyg8geUZ",
-        // yearly: "https://buy.stripe.com/test_9AQeV7cXn1tif4cbIO",
-        // /ask/after-payment?stripe={CHECKOUT_SESSION_ID}&plan=professional
       },
     },
   },
@@ -92,10 +88,6 @@ export const pricingTable = {
       GBP: {
         monthly: "https://buy.stripe.com/5kA6qobZD2tD6Ry9AM",
         yearly: "https://buy.stripe.com/dR6g0YgfT6JT5Nu8wJ",
-        // Testing
-        // monthly: "https://buy.stripe.com/test_aEUdR3f5v4FubS0dQX",
-        // yearly: "https://buy.stripe.com/test_4gw9AN3mNgocg8g6ow",
-        // /ask/after-payment?stripe={CHECKOUT_SESSION_ID}&plan=starter
       },
     },
   },
@@ -126,10 +118,6 @@ export const pricingTable = {
       GBP: {
         monthly: "https://buy.stripe.com/9AQ6qod3H4BL4Jq14i",
         yearly: "https://buy.stripe.com/14k4ig7JngktcbSdR5",
-        // Testing
-        // monthly: "https://buy.stripe.com/test_aEU28lcXn2xm1dmbIR",
-        // yearly: "https://buy.stripe.com/test_9AQ9AN2iJ2xm09idR0",
-        // /ask/after-payment?stripe={CHECKOUT_SESSION_ID}&plan=expert
       },
     },
   },
